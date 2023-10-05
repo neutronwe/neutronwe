@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋,Mi nombre es Santiago Téllez</h1>
+<h1 align="center">Hi 👾🪐, I’m Santiago Téllez</h1>
 <h3 align="center">Me gusta el desarrollo de código orientado a sistemas embebidos</h3>
 
 - 🌱 I’m currently learning **Ingeniería de Sistemas**
